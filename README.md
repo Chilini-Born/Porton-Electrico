@@ -1,0 +1,1 @@
+Bienvenidos! Este es un código sobre proyecto escolar de un portón eléctrico. Todavía no está terminado pero estaré usando GitHub para guardar los avances y pasos, como parte de la "documentación" del mismo
